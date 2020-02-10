@@ -1,6 +1,6 @@
 Citizen.CreateThread(function()
 	while true do
-        --This is the Application ID (Replace this with you own)
+        --ditt id till din discord bot, ändra till ditt egna id. 
         SetDiscordAppId(654256170281861157)
         
 		SetDiscordRichPresenceAsset('215878')
